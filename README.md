@@ -6,7 +6,7 @@ Choose the latest mod in `go.mod` and `go.sum` files when conflict occured durri
 
 ## How to install
 
-`go install github.com/ziposcar/latest_gomod`
+`go install github.com/ziposcar/latest_gomod@latest`
 
 ## How to use
 
