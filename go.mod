@@ -1,3 +1,3 @@
 module github.com/ziposcar/latest_gomod
 
-go 1.18
+go 1.16
